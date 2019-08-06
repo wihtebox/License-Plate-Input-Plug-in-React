@@ -29,4 +29,4 @@ bottom：输入键盘离底部的高度
     style={{height:"auto"}}//样式
 ></Chepai>
 ```
-
+![插件截图](https://raw.githubusercontent.com/wihtebox/License-Plate-Input-Plug-in-React/master/src/dist/img/1565071019.png)
